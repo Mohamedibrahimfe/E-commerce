@@ -27,7 +27,10 @@
       "@styles/*": ["src/styles/*"],
       "@layouts/*": ["src/layouts/*"],
       "@util/*": ["src/util/*"],
-      "@services/*": ["src/services/*"]
+      "@services/*": ["src/services/*"],
+      "customTypes": ["src/types/*"],
+      "@ecommerce/*": ["src/components/ecommerce/*"],
+      "@redux/*": ["src/redux/*"],
     },
     //
 
